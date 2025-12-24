@@ -15,7 +15,7 @@ A modern, responsive task management application built with React, featuring dar
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/task-tracker.git
+   git clone https://github.com/Nediusman/task-tracker.git
    cd task-tracker
    ```
 
